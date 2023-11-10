@@ -1,7 +1,7 @@
 | Name | Beschreibung | Eigenschaften | Verwendung | Instanzen |
 | ------------ | ------------ | ------------- | ---------- | --------- |
 | Spieler | Ein Spieler ist ein Bestandteil des Spiels und ist zugleich die Spielfigur. Die Spieler sind nacheinander an der Reihe. | "name person amZug" | Ein Spieler kann: - Einen Verdacht aussprechen - Würfeln - Eine Anklage erheben - Einen Hinweis notieren - Mischen | 2..6 |
-| Spielrunde | Eine Spielrunde ist ein kompletter Spielablauf bis 1 Spieler den Mörder gefunden hat oder alle Spieler ihre Anklage verbraucht haben). Eine Runde besteht aus mindestens 2 und maximal 6 Spielern | name | Durch eine Spielrunde kann: - eine Spielrunde gestartet werden | 1 |
+| Spielrunde | Eine Spielrunde ist ein kompletter Spielablauf bis 1 Spieler den Mörder gefunden hat oder alle Spieler ihre Anklage verbraucht haben). Eine Runde besteht aus mindestens 2 und maximal 6 Spielern | name | Durch eine Spielrunde kann: - eine Spielrunde gestartet werden | 0..1 |
 | Fallakte | Die Fallakte setzt sich aus 3 Karten zusammen (1 Personenkarte / 1 Waffenkarte / 1 Raumkarte), welche am Anfang verdeckt gezogen werde und damit den gesuchten Mörder bestimmen | Besteht aus 3 Karten | - | 1 |
 | Karte | "18 von den 21 Karten sind Eigentum der Spieler, welche gleichmäßig aufgeteilt werden. Die anderen 3 Karten werden verdeckt in die Fallakte gelegt" | "Entweder in der Fallakte oder beim Spieler" | Eine Karte kann: - zugeteilt werden - gemischt werden | 21 |
 | Personenkarte | Eine Personenkarte ist eine von 6 Personen (Gloria, Porz, Bloom, Gaton, Grün, Orchidee), welche an die Spieler und die Fallakte verteilt werden | person | Greift auf <<enumeration>> Person zu, in der die 6 Personen aufgelistet sind | 1 |
