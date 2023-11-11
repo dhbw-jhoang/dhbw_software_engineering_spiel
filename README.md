@@ -3,13 +3,11 @@
 ##### Gruppenmitglieder:
 ###### Katharina Bäuml, Jan Hoang, Anton Mundschau
 ------------
-**Table of Contents**
+**Inhaltsverzeichnis**
+- [Was ist Cluedo?](#Was ist Cluedo?)
+	- [Die Charaktere](#Die Charaktere)
 
-[TOCM]
 
-[TOC]
-
-#H1 header
 ------------
 
 ## Was ist CLUEDO?
