@@ -4,13 +4,19 @@
 ###### Katharina Bäuml, Jan Hoang, Anton Mundschau
 ------------
 **Inhaltsverzeichnis**
-- [Was ist Cluedo?](#cluedo)
-	- [Die Charaktere](#Die Charaktere)
+- [Was ist Cluedo?](#was-ist-cluedo)
+	- [Die Charaktere](#die-charaktere)
+	- [Wie wird gespielt?](#wie-wird-gespielt?)
+- [Use Case Beschreibungen](#use-case-beschreibungen)
+	- [Use Case 1](#use-case-1)
+	- [Use Case 2](#use-case-2)
+	- [Use Case 3](#use-case-3)
+	
 
 
 ------------
 
-## Was ist CLUEDO? {#cluedo}
+## Was ist CLUEDO?
 
 > **Die Einladungen wurden überbracht.  
 Die Gäste trafen ein.  
@@ -19,7 +25,7 @@ Ging es um sein Geld ...?**
 
 Sein Onkel, Professor Schwarz, hätte gewusst, wer dahintersteckt, doch leider ist auch er schon seit Jahren tot. Die sechs geheimnisvollen Gäste stehen nun unter Mordverdacht, und es liegt an dir, das Rätsel zu lösen.
 
-### Die Charaktere {#charaktere}
+### Die Charaktere
 
 **Fräulein Gloria, die Verführerin**  
 *Schön und begehrenswert. Aber auch skrupellos und manipulierend?*  
