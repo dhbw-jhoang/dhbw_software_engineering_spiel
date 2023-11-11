@@ -1,7 +1,15 @@
-# :detective: CLUEDO
-## Ein Modellierungsprojekt für Software Enginnering WI22A3/S3
+# CLUEDO :detective:
+## Ein Modellierungsprojekt für Software Engineering WI22A3/S3
 ##### Gruppenmitglieder:
 ###### Katharina Bäuml, Jan Hoang, Anton Mundschau
+------------
+**Table of Contents**
+
+[TOCM]
+
+[TOC]
+
+#H1 header
 ------------
 
 ## Was ist CLUEDO?
