@@ -39,4 +39,9 @@ Der Hochstapler Grün gab sich bereits als Prinz, Pilot, Arzt und Rechtsanwalt a
 *Geheimnisvoll udn abenteuerlich. Zugleich auch ehrgeizig und kriminell?*  
 Orchidee wurde als Teenager von Dr. Schwarz adoptiert und in einem Schweizer Internat untergebracht, bis man sie wegen eines Vergiftungsvorfalls hinauswarf. Danach wurde Frau Weiß ihre Hauslehrerin, und Orchidee entschied sich für eine Karriere als Biologin. Bei ihren Forschungen über giftige Pflanzen stieß sie auf ein medizinisch hochwirksames Gewächs, doch diese Entdeckung wollte sie mit niemandem teilen – nur mit ihrem Adoptivvater ...  
 
-
+### Wie wird gespielt?
+Löse den Mordfall!  
+• Ziehe durch die Räume der Villa und spreche jeweils einen Verdacht aus, wer den Mord mit welcher Waffe in welchem Raum begangen haben könnte.
+• Die anderen Spieler zeigen dir eine verdächtigte Karte, sofern sie eine haben.
+• Wenn du die Lösung des Falls kennst, darfst du einmal Anklage erheben.
+• Die Fallakte entscheidet, ob du recht hattest. Falls du daneben liegst, scheidest du aus dem Spiel aus, also musst du dir sicher sein!
