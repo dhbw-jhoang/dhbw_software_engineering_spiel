@@ -4,13 +4,13 @@
 ###### Katharina Bäuml, Jan Hoang, Anton Mundschau
 ------------
 **Inhaltsverzeichnis**
-- [Was ist Cluedo?](#Was ist Cluedo?)
+- [Was ist Cluedo?](#1)
 	- [Die Charaktere](#Die Charaktere)
 
 
 ------------
 
-## Was ist CLUEDO?
+## Was ist CLUEDO? {#1}
 
 > **Die Einladungen wurden überbracht.  
 Die Gäste trafen ein.  
