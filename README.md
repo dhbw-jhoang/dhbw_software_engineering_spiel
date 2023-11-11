@@ -2,7 +2,7 @@
 ## Ein Modellierungsprojekt für Software Enginnering WI22A3/S3
 ##### Gruppenmitglieder:
 ###### Katharina Bäuml, Jan Hoang, Anton Mundschau
----------------------
+------------
 
 ## Was ist CLUEDO?
 
@@ -47,7 +47,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 - Wenn du die Lösung des Falls kennst, darfst du einmal Anklage erheben.
 - Die Fallakte entscheidet, ob du recht hattest. Falls du daneben liegst, scheidest du aus dem Spiel aus, also musst du dir sicher sein!
 
----------------------
+------------
 
 ## Use Case Beschreibungen
 
