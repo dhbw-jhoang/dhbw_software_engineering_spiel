@@ -50,7 +50,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 ------------
 
 ## Use Case Beschreibungen
-
+### Use Case 1
 | Geschäftsprozess  |  Spielzug machen  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Spielzug des Spielers ist beendet  |
@@ -65,6 +65,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 |  **Erweiterung**  |  2a) Geheimgang benutzen<br>3a) Anklage machen  |
 |  **Alternativen**  |  2a) Im Raum stehen bleiben<br>3a) Verdacht nicht aussprechen  |
 
+### Use Case 2
 | Geschäftsprozess  |  Anklage machen  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Spiel gewinnen,<br>Spiel verlieren|
@@ -79,6 +80,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 |  **Erweiterung**  |  -  |
 |  **Alternativen**  |  -  |
 
+### Use Case 3
 | Geschäftsprozess  |  Hinweis notieren  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Hinweis notiert  |
