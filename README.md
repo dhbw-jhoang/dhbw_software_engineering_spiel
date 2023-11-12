@@ -27,6 +27,8 @@ Sein Onkel, Professor Schwarz, hätte gewusst, wer dahintersteckt, doch leider i
 
 ## Die Charaktere
 
+[](PNG/Klassendiagramm.png)
+
 **Fräulein Gloria, die Verführerin**  
 *Schön und begehrenswert. Aber auch skrupellos und manipulierend?*  
 Gloria war schon immer eine schöne Frau, aber leider sehr kaltherzig. Dr. Schwarz und sie wuchsen zusammen auf und gingen gemeinsam durch dick und dünn, doch je älter sie wurden, desto angespannter wurde ihre Beziehung. Schwarz warf Gloria vor, seinen Onkel bei Investitionen falsch beraten zu haben, doch nachdem sie seine Einladung in die Villa Neubrunn erhielt, dachte Gloria, alles sei vergeben und vergessen ...  
