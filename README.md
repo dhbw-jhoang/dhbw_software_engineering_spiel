@@ -8,6 +8,13 @@
 # Inhaltsverzeichnis
 - [Was ist Cluedo?](#was-ist-cluedo)
 	- [Die Charaktere](#die-charaktere)
+		- [Fräulein Gloria](#fräulein-gloria-die-verführerin)
+		- [Baronin von Porz](#baronin-von-porz-die-partybiene)
+		- [Professor Bloom](#professor-bloom-der-intellektuelle)
+		- [Oberst von Gatow](#oberst-von-gatow-das-alphatier)
+		- [Reverend Grün](#reverend-grün-der-womanizer)
+		- [Dr. Orchidee](#dr-orchidee-das-genie)
+		
 	- [Wie wird gespielt?](#wie-wird-gespielt?)
 - [Anwendungsanalyse](#use-case-beschreibungen)
 	- [Use Case 1](#use-case-1)
@@ -27,14 +34,14 @@ Sein Onkel, Professor Schwarz, hätte gewusst, wer dahintersteckt, doch leider i
 
 ## Die Charaktere
 
-### Fräulein Gloria, die Verführerin**  
+### Fräulein Gloria, die Verführerin
 ![](https://github.com/dhbw-jhoang/dhbw_software_engineering_spiel/blob/main/Sonstiges/Gloria.png)
 
 *Schön und begehrenswert. Aber auch skrupellos und manipulierend?*  
 Gloria war schon immer eine schöne Frau, aber leider sehr kaltherzig. Dr. Schwarz und sie wuchsen zusammen auf und gingen gemeinsam durch dick und dünn, doch je älter sie wurden, desto angespannter wurde ihre Beziehung. Schwarz warf Gloria vor, seinen Onkel bei Investitionen falsch beraten zu haben, doch nachdem sie seine Einladung in die Villa Neubrunn erhielt, dachte Gloria, alles sei vergeben und vergessen ...  
 
 
-### Baronin von Porz, die Partybiene**  
+### Baronin von Porz, die Partybiene
 ![](https://github.com/dhbw-jhoang/dhbw_software_engineering_spiel/blob/main/Sonstiges/Porz.png)
 
 *Kokettierend und verschwiegen. Doch auch habgierig und doppelzüngig?*  
