@@ -2,8 +2,10 @@
 ## Ein Modellierungsprojekt für Software Engineering WI22A3/S3
 ##### Gruppenmitglieder:
 ###### Katharina Bäuml, Jan Hoang, Anton Mundschau
+
 ------------
-**Inhaltsverzeichnis**
+
+# Inhaltsverzeichnis
 - [Was ist Cluedo?](#was-ist-cluedo)
 	- [Die Charaktere](#die-charaktere)
 	- [Wie wird gespielt?](#wie-wird-gespielt?)
@@ -11,12 +13,10 @@
 	- [Use Case 1](#use-case-1)
 	- [Use Case 2](#use-case-2)
 	- [Use Case 3](#use-case-3)
-	
-
 
 ------------
 
-## Was ist CLUEDO?
+# Was ist CLUEDO?
 
 > **Die Einladungen wurden überbracht.  
 Die Gäste trafen ein.  
@@ -25,7 +25,7 @@ Ging es um sein Geld ...?**
 
 Sein Onkel, Professor Schwarz, hätte gewusst, wer dahintersteckt, doch leider ist auch er schon seit Jahren tot. Die sechs geheimnisvollen Gäste stehen nun unter Mordverdacht, und es liegt an dir, das Rätsel zu lösen.
 
-### Die Charaktere
+## Die Charaktere
 
 **Fräulein Gloria, die Verführerin**  
 *Schön und begehrenswert. Aber auch skrupellos und manipulierend?*  
@@ -51,7 +51,7 @@ Der Hochstapler Grün gab sich bereits als Prinz, Pilot, Arzt und Rechtsanwalt a
 *Geheimnisvoll udn abenteuerlich. Zugleich auch ehrgeizig und kriminell?*  
 Orchidee wurde als Teenager von Dr. Schwarz adoptiert und in einem Schweizer Internat untergebracht, bis man sie wegen eines Vergiftungsvorfalls hinauswarf. Danach wurde Frau Weiß ihre Hauslehrerin, und Orchidee entschied sich für eine Karriere als Biologin. Bei ihren Forschungen über giftige Pflanzen stieß sie auf ein medizinisch hochwirksames Gewächs, doch diese Entdeckung wollte sie mit niemandem teilen – nur mit ihrem Adoptivvater ...  
 
-### Wie wird gespielt?
+## Wie wird gespielt?
 Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 - Erstelle mit deinen Freunden eine Spielrunde indem ihr der Lobby mit dem gleichen Namen beitretet!
 - Ziehe durch die Räume der Villa und spreche jeweils einen Verdacht aus, wer den Mord mit welcher Waffe in welchem Raum begangen haben könnte.
@@ -61,8 +61,8 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 
 ------------
 
-## Use Case Beschreibungen
-### Use Case 1
+# Use Case Beschreibungen
+## Use Case 1
 | Geschäftsprozess  |  Spielzug machen  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Spielzug des Spielers ist beendet  |
@@ -77,7 +77,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 |  **Erweiterung**  |  2a) Geheimgang benutzen<br>3a) Anklage machen  |
 |  **Alternativen**  |  2a) Im Raum stehen bleiben<br>3a) Verdacht nicht aussprechen  |
 
-### Use Case 2
+## Use Case 2
 | Geschäftsprozess  |  Anklage machen  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Spiel gewinnen,<br>Spiel verlieren|
@@ -92,7 +92,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 |  **Erweiterung**  |  -  |
 |  **Alternativen**  |  -  |
 
-### Use Case 3
+## Use Case 3
 | Geschäftsprozess  |  Hinweis notieren  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Hinweis notiert  |
