@@ -9,7 +9,7 @@
 - [Was ist Cluedo?](#was-ist-cluedo)
 	- [Die Charaktere](#die-charaktere)
 	- [Wie wird gespielt?](#wie-wird-gespielt?)
-- [Use Case Beschreibungen](#use-case-beschreibungen)
+- [Anwendungsanalyse](#use-case-beschreibungen)
 	- [Use Case 1](#use-case-1)
 	- [Use Case 2](#use-case-2)
 	- [Use Case 3](#use-case-3)
@@ -65,16 +65,18 @@ Orchidee wurde als Teenager von Dr. Schwarz adoptiert und in einem Schweizer Int
 
 ## Wie wird gespielt?
 Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
-- Erstelle mit deinen Freunden eine Spielrunde indem ihr der Lobby mit dem gleichen Namen beitretet!
+- Erstelle mit deinen Freunden eine Spielrunde, indem ihr der Lobby mit dem gleichen Namen beitretet!
 - Ziehe durch die Räume der Villa und spreche jeweils einen Verdacht aus, wer den Mord mit welcher Waffe in welchem Raum begangen haben könnte.
 - Notiere deine Hinwesie. Durch das verdächtigen kannst du nach und nach die Personen, Waffen und Räume ausschließen.
 - Wenn du die Lösung des Falls kennst, darfst du einmal Anklage erheben.
 - Die Fallakte entscheidet, ob du recht hattest. Falls du daneben liegst, scheidest du aus dem Spiel aus, also musst du dir sicher sein!
 
+*(In Anlehnung am klassischen Cluedo ohne Beweiskarten: [Original Cluedo - Rules (1996 Version)](https://www.cluedofan.com/origrule.htm)*
+
 ------------
 
-# Use Case Beschreibungen
-## Use Case 1
+# Anwendungsanalyse
+## Use Case Beschreibung 1
 | Geschäftsprozess  |  Spielzug machen  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Spielzug des Spielers ist beendet  |
@@ -89,7 +91,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 |  **Erweiterung**  |  2a) Geheimgang benutzen<br>3a) Anklage machen  |
 |  **Alternativen**  |  2a) Im Raum stehen bleiben<br>3a) Verdacht nicht aussprechen  |
 
-## Use Case 2
+## Use Case Beschreibung 2
 | Geschäftsprozess  |  Anklage machen  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Spiel gewinnen,<br>Spiel verlieren|
@@ -104,7 +106,7 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 |  **Erweiterung**  |  -  |
 |  **Alternativen**  |  -  |
 
-## Use Case 3
+## Use Case Beschreibung 3
 | Geschäftsprozess  |  Hinweis notieren  |
 | :------------ | :------------ |
 |  **Ziel, Ergebnisse**  |  Hinweis notiert  |
