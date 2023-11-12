@@ -27,7 +27,7 @@ Sein Onkel, Professor Schwarz, hätte gewusst, wer dahintersteckt, doch leider i
 
 ## Die Charaktere
 
-[](PNG/Klassendiagramm.png)
+![](https://github.com/dhbw-jhoang/dhbw_software_engineering_spiel/blob/main/PNG/Klassendiagramm.png)
 
 **Fräulein Gloria, die Verführerin**  
 *Schön und begehrenswert. Aber auch skrupellos und manipulierend?*  
