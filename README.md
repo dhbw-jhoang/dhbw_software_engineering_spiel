@@ -12,7 +12,6 @@
 		- [Oberst von Gatow](#oberst-von-gatow-das-alphatier)
 		- [Reverend Grün](#reverend-grün-der-womanizer)
 		- [Dr. Orchidee](#dr-orchidee-das-genie)
-		
 	- [Wie wird gespielt?](#wie-wird-gespielt?)
 - [Anwendungsanalyse](#use-case-beschreibungen)
 	- [Use Case Beschreibung 1](#use-case-1)
