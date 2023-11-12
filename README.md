@@ -18,6 +18,10 @@
 	- [Use Case Beschreibung 1](#use-case-1)
 	- [Use Case Beschreibung 2](#use-case-2)
 	- [Use Case Beschreibung 3](#use-case-3)
+- [Klassenmodell](#klassenmodell)
+	- [Klassendiagramm](#klassendiagramm)
+	- [Data Dictionary](#data-dictionary)
+- [Sequenzdiagramm](#sequenzdiagramm)
 
 
 # Was ist CLUEDO?
@@ -159,3 +163,6 @@ Löse den Mordfall! Wer war's? Mit welcher Waffe? In welchem Raum?
 | Hinweiszettel | Jeweils ein Spieler hat einen Hinweiszettel. Auf dem Hinweiszettel notiert sich ein Spieler die gesammelten Hinweise. | notizen | - | 2..6 pro Spielrunde // 1 pro Spieler |
 | Anklage | Ein Spieler kann bis zu 1 mal pro Spielrunde eine Anklage gegen einen anderen Spieler erheben, mit dem Ziel den Mörder zu finden. Ist die Anklage korrekt (alle 3 Karten des Mörders richtig genannt), gewinnt er das Spiel, ansonsten ist der Spieler ""eliminiert"" und kann sich nicht mehr aktiv am Spiel beteiligen, sondern nur noch auf einen Verdacht von anderen Spielern reagieren. | Person, Waffe, Raum" | Durch eine Anklage kann: eine runde beendet werden, ein Spieler eliminiert werden | 0..6 pro Spielrunde // 0..1 pro Spieler |
 | Verdacht | Ein Spieler kann über den Verlauf einer Spielrunde mehrere Verdachte aussprechen. Durch einen Verdacht hat der Spieler die Möglichkeit, herauszufinden, wer den Mord womit und wo begangen hat. Die anderen Spieler zeigen dem Spieler die verdächtigen Karte, welche man auf seinem Hinweiszettel notiert und somit Stück für Stück die falschen Personen/Waffen/Räume ausschließt. | Person, Waffe, Raum | - | 0..* |
+
+# Sequenzdiagramm
+![](https://github.com/dhbw-jhoang/dhbw_software_engineering_spiel/blob/main/PNG/Sequenzdiagramm.png)
