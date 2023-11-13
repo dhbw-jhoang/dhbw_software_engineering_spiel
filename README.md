@@ -3,6 +3,8 @@
 ##### Gruppenmitglieder:
 ###### Katharina Bäuml, Jan Hoang, Anton Mundschau
 
+##### Trello Board: [Link](https://trello.com/b/pV4zYt7i)
+
 # Inhaltsverzeichnis
 - [Was ist Cluedo?](#was-ist-cluedo)
 	- [Die Charaktere](#die-charaktere)
